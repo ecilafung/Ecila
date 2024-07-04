@@ -1,41 +1,228 @@
-# soshimeeaddons
+Feature List
 
-Hypixel skyblock dungeon oriented mod
+Combat: (Cheat Only)
 
-(Use at your own risk - it is not a cheat but it falls under the same category as mods such as SBE or Skytils for blocking clicks etc)
+Reach
 
-Features:
+Hit Delay Remover
 
-!rp - reparty
+Left Clicker
 
-!kick - kicks user from party
+-----------------
 
-!ptme - transfer party to yourself
+Dungeon:
 
-!f1 - !f7 / !m1 - !m7 - enter specified dungeon
+Africa Stonk (Cheat Only)
 
-!rng - sends {IGN} is ?% Lucky!
+Misc
 
-option to change prefix of party commands.
+Livid Finder
 
-Check if your other mods are unsafe.
+Invincibility Trigger
 
-Next reccommended talisman
+Auto SS (Cheat Only)
 
-Dragon Split Helper
+TerminalSolver
 
-Debuff Helper for M7
+AutoTerminal (Cheat only)
 
-Dark Auction price helper
+Pearl Interactor
 
-Reforge Helper
-
-i4 Waypoints
-
-Predev Waypoints
+Terminal Stats
 
 Dragon Priority
 
-Dungeons RNG Tracker
+Leap UI
 
-Experiments T7 Book Tracker
+Arrow Solver
+
+Secret Click Alert
+
+Waterboard Solver
+
+Lava Bouncer (cheat only)
+
+Star Mob Highlight
+
+Color Dungeon Note
+
+Secret Aura (cheat only, dangerous)
+
+Ghost Pick (cheat only)
+
+Ghost Block (cheat only)
+
+Edge Auto Terminal (cheat)
+
+Ability Aura (cheat, legit option)
+
+-----------------
+
+Skyblock:
+
+Fairy Soul ESP
+
+Damage Modifier
+
+Pest ESP 
+
+Auto Melody (cheat)
+
+Etherwarp Display
+
+Hide Wither Cloak
+
+Better Mining
+
+Auto Dagger (cheat)
+
+Visitor Helper
+
+Cheese ESP
+
+Dojo Helper
+
+Trapper Animal ESP
+
+Cooldown Tracker
+
+Sex Aura
+
+-----------------
+
+Mining:
+
+Metal Detector Solver
+
+Crystal Tracker
+
+-----------------
+
+Rift:
+
+Enigma Soul ESP
+
+Barrier ESP
+
+Farming Helper
+
+Test
+
+Auto Dancer (cheat)
+
+-----------------
+
+Macro (all cheats):
+
+Harp Macro
+
+Harp Macro 2
+
+EXP Table Macro
+
+Farming Macro
+
+HardCoded Farming Macro
+
+Smart Farming Macro
+
+Book Combine Macro
+
+Mining Macro (Gemstone/Mithril)
+
+Foraging Macro
+
+-----------------
+
+Misc:
+
+Stair Phase (cheat)
+
+Toggle Sprint
+
+Block Animation
+
+Search Bar
+
+Fast Break (cheat)
+
+Pingless Cactus (cheat)
+
+Dev
+
+Swing Fix
+
+Item Animations
+
+Entity ESP (cheat)
+
+Slot Binding
+
+Chest ESP (cheat)
+
+Name Hider
+
+ModMenu (set keybind for menu)
+
+Hide Player
+
+-----------------
+
+Render:
+
+Arrow Trail
+
+Nametags
+
+Camera
+
+No Blindeess (cheat)
+
+Hide Falling Block
+
+-----------------
+
+Chat:
+
+Dungeon Chat
+
+Party Finder Stats
+
+Chat Bot (cheat)
+
+Printer (cheat)
+
+-----------------
+
+Hud:
+
+Pet Display
+
+Power Display
+
+FPS/TPS Display
+
+Coord Display
+
+-----------------
+
+Test - all cheat (ask me what to use and what not to use):
+
+Pingless Mining 
+
+Auto Golden Carrot
+
+Pingless Garden Scythe
+
+Slender 
+
+Auto Icefill
+
+Phase
+
+Slender2
+
+Auto Chocolate Factory
+
+Location - change ui element
+
