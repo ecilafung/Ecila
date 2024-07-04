@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "package": "me.fung.mixins",
+  "refmap": "mixins.Ecila.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "clickMouseAccessor",
+    "MixinChunk",
+    "MixinEntityRenderer",
+    "MixinEventBus",
+    "MixinNetworkManager",
+    "PlayerControllerMPAccessor",
+    "MixinMinecraft",
+    "MixinPlayerControllerMP",
+    "MixinItemRenderer",
+    "MixinRendererLivingEntity",
+    "ItemFoodAccessor",
+    "MixinRenderItem",
+    "MixinFontRenderer",
+    "block.MixinBlock",
+    "block.MixinBlockLiquid",
+    "entity.MixinEntity",
+    "entity.MixinAbstractClientPlayer",
+    "entity.MixinEntityLivingBase",
+    "entity.MixinEntityPlayerSP"
+  ]
+}
